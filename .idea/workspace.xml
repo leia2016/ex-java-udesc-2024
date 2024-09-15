@@ -1,31 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7e62050-a92b-40d7-8020-76a95167d4eb" name="Changes" comment="" />
+    <list default="true" id="f7e62050-a92b-40d7-8020-76a95167d4eb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Circulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Circulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ContaBancario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContaBancario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Livro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Retangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Retangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestaAluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestaAluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestaCarro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestaCarro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestaCirculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestaCirculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestaContaBancaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestaContaBancaria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestaLivro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestaLivro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestaRetangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestaRetangulo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2m7AH130RCO9BmnM3zmkTDMBwyT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
